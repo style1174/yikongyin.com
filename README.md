@@ -1,2 +1,2 @@
 # yikongyin.com
-show
+http://www.yikongyin.com/
